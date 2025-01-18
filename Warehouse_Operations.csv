@@ -1,0 +1,12 @@
+Warehouse_ID,Region,Staff_Count,Processing_Time_Avg,Operational_Cost
+W1,West,21,36,16111
+W2,North,42,38,17737
+W3,North,47,53,19320
+W4,,49,22,7601
+W5,East,34,17,7588
+W6,West,31,59,17486
+W7,South,35,47,9082
+W8,South,41,36,12261
+W9,South,Unknown,15,9870
+W10,South,10,60,5205
+W1,West,21,36,16111
